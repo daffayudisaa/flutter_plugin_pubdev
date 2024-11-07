@@ -266,3 +266,45 @@ A new Flutter project.
 </table>
     
 <br></br>
+
+## Tugas Kelompok PBL
+
+1. Tambahkan plugin untuk fungsi kamera pada aplikasi kelompok Anda. Misalnya menggunakan plugin ini https://pub.dev/packages/camera (silakan boleh gunakan plugin lain)
+
+    **Jawab:**
+
+    * Mengambil Sensor Kamera dari Perangkat
+
+        ![alt text](images/PBL-3.png)
+
+    * Mengimplementasikan Kamera dan Membuat Tampilannya
+
+        ![alt text](images/PBL-1.png)
+
+    * Membuat Halaman Preview Gambar Setelah Diambil Oleh Kamera**
+    
+        ![alt text](images/PBL-2.png)
+
+2. Tambahkan plugin animasi loading dan transisi pada aplikasi OCR kelompok Anda.
+
+    **Jawab:**
+
+    * Menambahkan animasi loading ketika mengirim gambar (anggapan gambar sudah bisa dikirim)
+
+        ![alt text](images/PBL-5.png)
+
+        ![alt text](images/PBL-4.png)
+
+3. Jika telah berhasil sesuai kebutuhan, maka push hasil kontribusi masing-masing anggota kelompok ke repository project PBL.
+
+    **Jawab:**
+
+    * Repositori Kelompok PBL 
+
+        ![alt text]({FEE3A6CA-0CAF-4076-B13E-04F71F3EE7ED}.png)
+
+    * Hasil:
+
+        ![alt text](images/PBL-Hasil.gif)
+
+
